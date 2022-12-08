@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I learned how to use the basics of Node JavaScript (JS) tod build a README Generator. The Github repo is https://github.com/AStandish/readme-generator and link https://astandish.github.io/jscodequiz/.
+In this project, I learned how to use the basics of Node JavaScript (JS) tod build a README Generator. The Github repo is https://github.com/AStandish/readme-generator and link https://astandish.github.io/readme-generator/.
 
 ## Installation
 
