@@ -17,11 +17,11 @@ function renderLicenseLink(license) {
   if (license === "MIT") {
     return `https://lbesson.mit-license.org/`;
   }
-  if (license === "GPL") {
-    return `http://perso.crans.org/besson/LICENSE.html`;
+  if (license === "MS-PL") {
+    return `https://opensource.org/licenses/MS-PL`;
   }
-  if (license === "CC--0") {
-    return `https://creativecommons.org/licenses/by-nd/4.0`;
+  if (license === "AFL-3.0") {
+    return `https://opensource.org/licenses/AFL-3.0`;
   }
 }
 

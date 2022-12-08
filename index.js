@@ -141,7 +141,7 @@ const questions = [
     type: "list",
     name: "licenses",
     message: "What license would you like to include?",
-    choices: ["MIT", "GPL", "CC--0"],
+    choices: ["MIT", "MS-PL", "AFL-3.0"],
     when: ({ confirmLicenses }) => {
       if (confirmLicenses) {
         return true;
