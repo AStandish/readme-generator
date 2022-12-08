@@ -1,49 +1,39 @@
-# fdfa
+# Readme Generator
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![AFL-3.0 license](https://img.shields.io/badge/License-AFL-3.0-blue.svg)](https://opensource.org/licenses/AFL-3.0)
 
 ## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licenses](#licenses)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Credits](#credits)
+  
+## Description
+Create a readme from a program
 
-- [Description](#description)
+## Installation
+node js
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Licenses](#licenses)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  - [Credits](#credits)
+## Usage
+install node
 
-  ## Description
+## Licenses
+    This design is covered under the AFL-3.0 license. To understand what this means, click the license button at the top.
 
-  df
+## Contributing
+tell me how to update
 
-  ## Installation
+## Tests
+just do
 
-  df
+## Questions
+Have questions about this design?  
+GitHub: https://github.com/astandish@github.com  
+Email: astandish12@hotmail.com
 
-  ## Usage
-
-  df
-
-  ## Licenses
-
-  This design is covered under the MIT license. To understand what this means, click the license button at the top.
-
-  ## Contributing
-
-  df
-
-  ## Tests
-
-  df
-
-  ## Questions
-
-  Have questions about this design?  
-  GitHub: https://github.com/dfdfd  
-  Email: fadfad
-
-  ## Credits
-
-  asdfadfadf
+## Credits
+Amber Standish
